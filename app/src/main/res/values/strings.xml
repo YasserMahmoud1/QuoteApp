@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quote App</string>
+    <string name="welcome_message"><b>Welcome to the Quote App</b></string>
+    <string name="go_to_home">Go to the quotes!</string>
+    <string name="image_of_the_quote">Image of the quote</string>
+    <string name="quote_info">Quote Info.</string>
+    <string name="quote">Quote</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="publish_year">Publish Year</string>
+    <string name="character_name">Character Name</string>
+
+</resources>
